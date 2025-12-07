@@ -25,7 +25,7 @@
 	<a href="https://wa.me/+201113187090" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Youssef El-Sayed" height="35" width="40" /> </a>
-	<a href="www.linkedin.com/in/youssif-al-sayed-syd14/" target="blank"><img align="center"
+	<a href="https://www.linkedin.com/in/youssefelsayed14/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Youssef El-Sayed" height="35" width="40" /> </a> 
   <a href="https://www.facebook.com/youssif.alsayed14" target="blank"><img align="center"
